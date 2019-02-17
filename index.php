@@ -1,5 +1,5 @@
 <?php
 
-echo "Gabriel Antonio Rabel Junior";
+echo "Tradução comentada";
 
 ?>
